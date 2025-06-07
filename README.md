@@ -3,9 +3,13 @@ This is a simple and fun game inspired by the "Rock-Paper-Scissors-Lizard-Spock"
 
 Features:
 🖐 Five hand signs: Rock, Paper, Scissors, Lizard, Spock
+
 🎨 All game art (hand signs, buttons, backgrounds) drawn by me
+
 🧠 Game logic for win/lose/draw outcomes
+
 🖱 Click-based interaction with clean feedback
+
 🔁 Replay or Exit after each round
 
 Technologies Used:
