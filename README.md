@@ -9,8 +9,8 @@ Features:
 🔁 Replay or Exit after each round
 
 Technologies Used:
-Python 3
-Pygame
+Python 3,
+Pygame,
 IbisPaint X (for drawing assets)
 
 How to Run:
